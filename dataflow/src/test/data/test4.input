@@ -1,0 +1,11 @@
+while 1 {
+    x = 1
+    y = x
+    while 2 {
+        while 3 {
+            while 4 {
+                x = 2
+            }
+        }
+    }
+}
